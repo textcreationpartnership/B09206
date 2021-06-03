@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The five faithful brothers., or, A dialogue being a true discourse between His Majesty Charles the Second, and the five brothers at his escape from Worcester together with the severall discourses and passages that past betwixt them.  With Mris Lanes conveying of His Majesty through all his difficulties; and his obscurity in the oake for many daies.  And his taking shipping in Sussex.  This being related by the five brothers and taken from their own mouths.</title>
+            <author>H. T.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09206</idno><idno type="EEBO-CITATION">64551302</idno>
+  <idno type="VID">184598</idno>
+  <idno type="EEBO-PROQUEST">2240884540</idno>
+  
+            <idno type="STC">Wing H134</idno>
+            <idno type="STC">ESTC R177788</idno>
+            <idno type="OCLC">64551302</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184598)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The five faithful brothers., or, A dialogue being a true discourse between His Majesty Charles the Second, and the five brothers at his escape from Worcester together with the severall discourses and passages that past betwixt them.  With Mris Lanes conveying of His Majesty through all his difficulties; and his obscurity in the oake for many daies.  And his taking shipping in Sussex.  This being related by the five brothers and taken from their own mouths.</title>
+                  <author>H. T.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes 75 blank pages.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184598:1"/>
+            <p>
+               <hi>The Five faithfull Brothers.</hi> OR A DIALOGUE BEING A true Discourse between HIS MAJESTY CHARLES <hi>the Second,</hi> AND The five Brothers At his Escape from <hi>WORCESTER.</hi> Together With the severall <hi>Discourses</hi> and Passages that past betwixt them. With M<seg rend="sup">ris</seg>
+               <hi>Lanes</hi> conveying of His Majesty through all his difficul<g ref="char:EOLhyphen"/>ties; and his obscurity in the Oake for many daies. And his taking shipping in <hi>Sussex.</hi> This being related by the Five brothers, and taken from their own mouths.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>W. Gilbertson.</hi> 1660.</p>
+            <pb facs="tcp:184598:2"/>
+            <pb facs="tcp:184598:2"/>
+            <pb facs="tcp:184598:3"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184598:3"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184598:4"/>
+            <pb facs="tcp:184598:4"/>
+            <pb facs="tcp:184598:5"/>
+            <pb facs="tcp:184598:5"/>
+            <pb facs="tcp:184598:6"/>
+            <pb facs="tcp:184598:6"/>
+            <pb facs="tcp:184598:7"/>
+            <pb facs="tcp:184598:7"/>
+            <pb facs="tcp:184598:8"/>
+            <pb facs="tcp:184598:8"/>
+            <pb facs="tcp:184598:9"/>
+            <pb facs="tcp:184598:9"/>
+            <pb facs="tcp:184598:10"/>
+            <pb facs="tcp:184598:10"/>
+            <pb facs="tcp:184598:11"/>
+            <pb facs="tcp:184598:11"/>
+            <pb facs="tcp:184598:12"/>
+            <pb facs="tcp:184598:12"/>
+            <pb facs="tcp:184598:13"/>
+            <pb facs="tcp:184598:13"/>
+            <pb facs="tcp:184598:14"/>
+            <pb facs="tcp:184598:14"/>
+            <pb facs="tcp:184598:15"/>
+            <pb facs="tcp:184598:15"/>
+            <pb facs="tcp:184598:16"/>
+            <pb facs="tcp:184598:16"/>
+            <pb facs="tcp:184598:17"/>
+            <pb facs="tcp:184598:17"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:184598:18"/>
+            <pb n="1" facs="tcp:184598:18"/>
+            <head>At the <hi>KINGS</hi> comming to WORCESTER.</head>
+            <p>AFter so many doleful Trage<g ref="char:EOLhyphen"/>dies, painful Travels, and tired Journies of his sacred Majesty in <hi>Scotland, France,</hi> and <hi>Denmark,</hi> and several other adjacent Countries; <hi>VVorcester</hi> was determined the place of that dismall Fate, <hi>September</hi> 3. 1651. which black and gloomy day at that time seemed like a terrible Earthquake over all the three King<g ref="char:EOLhyphen"/>doms; yet our gracious ever re<g ref="char:EOLhyphen"/>nowned Prince at his first and con<g ref="char:EOLhyphen"/>spicuous Essay, extended his Va<g ref="char:EOLhyphen"/>lour beyond the expectation of all his very Enemies; which caused Fortune to blush and be ashamed at such a sudden Repulse to that Matchlesse and Heroical courage of a Prince; which for the Redem<g ref="char:EOLhyphen"/>ption
+<pb n="2" facs="tcp:184598:19"/>of his long Captivated Sub<g ref="char:EOLhyphen"/>jects ventured the hazard of his most Sacred Bloud, Life, Crown and Kingdome in one day; and so willingly did expose it upon the Wings of lucklesse Fortune at that incomparable City of <hi>Worcester;</hi> for whose Loyalty, Fidelity and Affe<g ref="char:EOLhyphen"/>ction, deserves an everlasting per<g ref="char:EOLhyphen"/>petuall Memory.</p>
+            <p>But then seeing Fortune declines the Honour of his most Royal Dignity by such a numerous over<g ref="char:EOLhyphen"/>powring Force, retired from the Field, quitted his Court and Lodg<g ref="char:EOLhyphen"/>ings, and rallied his faithful and considerable Friends of Lords, Knights and Gentlemen, who as re<g ref="char:EOLhyphen"/>solute were to promote his Enter<g ref="char:EOLhyphen"/>prize, were resolved to accompany him in his Flight; the chief of his Guard were the Earl of <hi>Derby,</hi> the Earl of <hi>Shrewsbury,</hi> Earl of <hi>Cleavland</hi> and the Duke of <hi>Euckingham,</hi> and my Lord <hi>Wilmot,</hi> and others to the
+<pb n="3" facs="tcp:184598:19"/>number of Four score:</p>
+            <p>But to tell you of his doubtfull and dangerous Return from <hi>Wor<g ref="char:EOLhyphen"/>cester</hi> to <hi>White-ladies,</hi> (which is a House so called by Name) in the parish of <hi>Tong,</hi> upon the Confines of <hi>Staffordshire,</hi> 25 Miles distant from <hi>VVorcester</hi> I shall omit, in re<g ref="char:EOLhyphen"/>gard ile not be too tedious but ac<g ref="char:EOLhyphen"/>quaint you of his Reception there.</p>
+            <p>This House was belonging to one <hi>Fitz-Herbert,</hi> where <hi>George Pen<g ref="char:EOLhyphen"/>drill,</hi> the youngest Brother of the Five, who were all severally in<g ref="char:EOLhyphen"/>strumental in the conductment and preservation of his Majesty; hearing some body knocking at the dore early in the Morning, opening the window, he espying <hi>Francis Yates,</hi> who was his Brother in law, with Mr. <hi>Gifford,</hi> another of his Majesties Conductors in his Miraculous E<g ref="char:EOLhyphen"/>scape, who bad him put his cloaths on, which immediately he did.</p>
+            <p>Now this <hi>George</hi> was the first of
+<pb n="4" facs="tcp:184598:20"/>the five Brothers imploy'd in the service of this wonderfull Contri<g ref="char:EOLhyphen"/>vance, being then sent to <hi>Tong</hi> to see if the Coasts were clear; but what God and Angells had decreed force of men can never hinder. And now since the providential mercy of the Almighty hath reestablisht his most sacred Majesty upon his Royal Throne, these five brothers repaired unto him, where his sacred Majesty received them gladly, as the Emblems of his joy and tran<g ref="char:EOLhyphen"/>quillity. Wherein I shall relate the whole proceedings of this blessed escape, beginning from the place where we left <hi>George Pendrell</hi> in the parish of <hi>Toung.</hi> With a true and perfect Dialogue or Conference between his Majesty and them, of all their actions severally till his landing in <hi>France.</hi> Their names <hi>VVilliam, Richard, Humphrey, John</hi> and <hi>George.</hi>
+            </p>
+            <stage>
+               <hi>VVilliam</hi> comes into the Chamber
+<pb n="5" facs="tcp:184598:20"/>of presence, the King came to him, saying thus:</stage>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Honest</hi> Will, <hi>how dost thee doe these many a day? how does thy Wife</hi> Joane, <hi>and honest Goodman</hi> Creswell, <hi>whose shoos I borrowed in time of my necessity?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>They are well I thank your gra<g ref="char:EOLhyphen"/>cious Majesty: but my brothers are close by here, and would fain see your Royall person.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Prethee call m in, honest</hi> Will, <hi>and let us discourse a little of our old travels.</hi>
+               </p>
+            </sp>
+            <stage>In comes <hi>Humphrey</hi> the Miller, and <hi>George, John,</hi> and <hi>Richard.</hi>
+            </stage>
+            <sp>
+               <speaker>G.</speaker>
+               <p>God blesse your Majesty, you are better seated now then at <hi>Whitladys</hi> in the parish of <hi>Tong,</hi> where your Majesty was pleased to make me your faithfull Scout and I hope you found me faithfull in your service.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>That I did honest</hi> George, <hi>and thou shalt see Ile be faithfull to thee. But tell me all along our passages, for I have almost forgotten them. Who didst meet with at Toung?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Truly my Liege I shall never forget m: but I met with none but my brother <hi>Richard.</hi>
+               </p>
+            </sp>
+            <pb n="6" facs="tcp:184598:21"/>
+            <sp>
+               <speaker>K.</speaker>
+               <p>Richard, <hi>what did you doe then; did you come where I was?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Yes, and please your Majesty; but I had no sooner come into the house, but Squire <hi>Gifford</hi> call'd me and bad make hast and fetch my best Cloaths, which was but a Jump and Breeches of coorse Green Cloath, and a Do skin Leather Dublet.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Tis very true and I think they fit<g ref="char:EOLhyphen"/>ted my turn that time better then a George and a long Robe. But who lent me the Hat, and the hurden Noggen shirt, as you call it, and the Band?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>The Hat you had of me and please your Majesty.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Truly</hi> Humphry <hi>it pleased me very well at that time being but an old one and turn'd up in the brims.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>The Shirt we had of <hi>Edward Mar<g ref="char:EOLhyphen"/>tin,</hi> but the Shoos were <hi>William Creswells</hi> and please ye.</p>
+            </sp>
+            <sp>
+               <speaker>George.</speaker>
+               <p>The bond you had of me and please your Majesty, and presently you stript your self and put it on: and gave your own Cloaths into our hands, which was a Buffe Cote, and a Linnen Dublet, and a Gray pair of breeches you wore before.</p>
+            </sp>
+            <pb n="7" facs="tcp:184598:21"/>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>What did you do with them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.</speaker>
+               <p>Hid them under ground five weeks before we durst take them up again, and the Jewels of your Arm, you gave to one of the Lords then departing from you.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>But who was it that barb'd me so handsomly, after my Lord</hi> Wilmot <hi>had cut my hair with a Knife.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>'Twas I and please your Maje<g ref="char:EOLhyphen"/>sty, as well as I could, with a pair of sheers: I did round it a little better then twas before with a Knife, then you said you were Al a mod the Woodman.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>I remember it very well, Honest Dick, and thou shalt have my word for a Noble Barber; but who did my Lord of</hi> Derby <hi>commit me to, for to be my Gardion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>'Twas I and please your Majesty, and the rest of my brothers, in whose tuition you were received into. Then my Lord would have staid himself, but we could not undertake to secure both.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Whether went my Lord Wilmot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>John.</speaker>
+               <p>Twas I conveyed him to one Mr. <hi>Whitegraves</hi> and please ye.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>Which of you gave me the Wood bill into my hand, and traverst abroad the Wood with me?</hi>
+               </p>
+            </sp>
+            <pb n="8" facs="tcp:184598:22"/>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>'Twas I and please your Maje<g ref="char:EOLhyphen"/>sty; but when we were in the Wood, <hi>William</hi> went home, and <hi>George</hi> and <hi>Humphrey</hi> went a scouting and hovering up and down the Woods, to hear or see if any one did approach or draw near.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>I remember there fell a great shower of rain that</hi> Thursday, <hi>and rain'd most of all the day, and that good Woman Yates his Wife which you know, brought me a blancket and threw over my shoulders. But I shall never forget the Messe of Milk, Egs, and Sugar she brought me, which I guest it to have been Milk and Apples and lik'd it very well? But about five a Clock in the Evening we went to your house</hi> Rich<g ref="char:EOLhyphen"/>ard.</p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>Yes an please your Majesty, and my brother <hi>Humphrey, George</hi> and <hi>Francis Yates,</hi> where we had a Fricase of Bacon and Eggs; and to make our mat<g ref="char:EOLhyphen"/>ter sutable for a Woodman, your Majesty was pleased to hold the little Girle on your precious knee.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>I remember that very well, and your wife said she blessed God that had so ho<g ref="char:EOLhyphen"/>noured her children in making them In<g ref="char:EOLhyphen"/>struments as she hoped for my safeguard and deliverance.</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:184598:22"/>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>But I was in great fear an please you when we were at <hi>Madley</hi> and going over the bridge at a place called <hi>Evelen;</hi> 'twas about nine a clock at night we intending to go for <hi>Wales;</hi> the Miller of that Mill slipt out and demanded who goes there, having a Quarter staffe in his hand or some such thing, we were fain to quit the place and glad to be gone, but as glad was the Miller to be rid of us: so we finding our passage to be dange<g ref="char:EOLhyphen"/>rous, returned again.</p>
+            </sp>
+            <sp>
+               <speaker>K:</speaker>
+               <p>
+                  <hi>Truly honest</hi> Dick, <hi>I was never so hard put to it as I was then, except it was when we lay in the hollow tree; for my feet were terribly gaul'd and blister'd that I was hardly able to go. But prethee tell me how I got up the hollow Oak.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>With the help of my brother <hi>Williams</hi> Woodladder and the bows were so thick with leaves, which 'twas impo<g ref="char:EOLhyphen"/>sible for any one to discern us.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>But honest</hi> William <hi>gave us up pil<g ref="char:EOLhyphen"/>lows to lie upon I remember; but in regard my journey was so tedious and I so weary, I slept very well.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>But when you awak'd you were very hungry; for such a hard march caused a good appetite, and by chance
+<pb n="10" facs="tcp:184598:23"/>that Col. <hi>Carlesse</hi> had a good Lunchin of Bread and Cheese in his pocket.</p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>Which he had got of my brother <hi>Pendrils</hi> wife for provant that day and had wrapt in a clean linnen Cloath.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>'Tis very true indeed</hi> Richard, <hi>and I fed on it very heartily, and was as well pleased with the service and the Cheer, as when I had greater Banquets in Court, but some other reliefe we had which was put up in the Tree by a long hooked stick; but I have admired since what a loyal ho<g ref="char:EOLhyphen"/>nest combination and secrecy was main<g ref="char:EOLhyphen"/>tain'd amongst all those persons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hum.</speaker>
+               <p>But when I was sent abroad to inquire after intelligence and brought you tidings there was a thousand pound offer'd to any one that would supprize ye and bring you in, it somewhat dis<g ref="char:EOLhyphen"/>maid your Majesty, thinking that such an inconfiderable valew to the purchase might pervert such poor men as we from our Alleagiance and Fidelity which made me to be much troubled for my rashnesse.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>But speedily after I was fitted for my Journey; pray who was that went to Mris.</hi> Lane <hi>for the Walnut leaves to co<g ref="char:EOLhyphen"/>lour my hands in regard of the Whitoness?</hi>
+               </p>
+            </sp>
+            <pb n="11" facs="tcp:184598:23"/>
+            <sp>
+               <speaker>John.</speaker>
+               <p>Twas I and please your Maje<g ref="char:EOLhyphen"/>sty, and they were boyld in spring water a purpose to alter the hew and whitnesse of the skin, and all those places that were most obvious to the eye, likewise she bad me give notice to your Majesty at what time you should be ready.</p>
+            </sp>
+            <sp>
+               <speaker>K.</speaker>
+               <p>
+                  <hi>'Tis very true, and I think twas a<g ref="char:EOLhyphen"/>bout the eleventh of</hi> September <hi>upon a</hi> Thursday <hi>night, that</hi> Col. Lane <hi>came with his Sister to a field adjoyning and there they put me before her, and then seve<g ref="char:EOLhyphen"/>ral useful recommendations she had all a long our intended road to the</hi> Alleys <hi>friends of her family if any outward ap<g ref="char:EOLhyphen"/>pearance of harm should put us to the Tryal. But with many crossings, windings, dangers and difficulties at several sinck<g ref="char:EOLhyphen"/>ports, at length we got into Sussex, and there we were constrain'd to remain five weeks to attend passage, but God at last with the influence of his mercy sent us un<g ref="char:EOLhyphen"/>der the banner of his providence to a Creek where we found a bark fitted for our purpose, and after Imbarkqued Hoyst up Sayl and set a Float; yet fortune not much favouring us by contrary weather we were driven back to the same place disguised in saylors Cloaths; yet the wind
+<pb n="12" facs="tcp:184598:24"/>veezing about more favourable set to sea again, and about the end of</hi> October, 1051 <hi>landed at the Deep in</hi> Normandy <hi>whence an expresse was sent to her Majesty of</hi> England <hi>of our safe arrival.</hi>
+               </p>
+            </sp>
+            <p>So ended, his sacred Majesty called that right Honourable and Noble affe<g ref="char:EOLhyphen"/>ctionate Marquesse of <hi>Ormond;</hi> and to him committed the charge of these five brothers, untill such time he should bet<g ref="char:EOLhyphen"/>ter provide for them.</p>
+            <p>Now let it therefore content and suffice the hearts of all Men, their eyes seeing it apparent that it pleased the divine Wis<g ref="char:EOLhyphen"/>dome and providential Mercy of the most high God to guide, protect, defend and deliver our most gracious <hi>Soveraign Lord King</hi> CHARLES <hi>the Second,</hi> from all dangers, difficulties, treasons, plots, conspiracies, in what nature or con<g ref="char:EOLhyphen"/>dition soever.</p>
+            <p>Lets never then forget to praise the eternal God that can work such miraculous Deliverances with the
+<pb n="13" facs="tcp:184598:24"/>influences of his goodnesse and loadstone of his Mercy, to etract him so may several times beyond admiration from the hands of those <hi>reprobate, bloud thirsty, trayterous E<g ref="char:EOLhyphen"/>nemies,</hi> Who thought himself sure of that, so <hi>killing the Heir the inheri<g ref="char:EOLhyphen"/>tance may be theirs.</hi>
+            </p>
+            <closer>
+               <salute>
+                  <hi>God save the</hi> KING.</salute>
+               <signed>T. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184598:25"/>
+            <pb facs="tcp:184598:25"/>
+            <pb facs="tcp:184598:26"/>
+            <pb facs="tcp:184598:26"/>
+            <pb facs="tcp:184598:27"/>
+            <pb facs="tcp:184598:27"/>
+            <pb facs="tcp:184598:28"/>
+            <pb facs="tcp:184598:28"/>
+            <pb facs="tcp:184598:29"/>
+            <pb facs="tcp:184598:29"/>
+            <pb facs="tcp:184598:30"/>
+            <pb facs="tcp:184598:30"/>
+            <pb facs="tcp:184598:31"/>
+            <pb facs="tcp:184598:31"/>
+            <pb facs="tcp:184598:32"/>
+            <pb facs="tcp:184598:32"/>
+            <pb facs="tcp:184598:33"/>
+            <pb facs="tcp:184598:33"/>
+            <pb facs="tcp:184598:34"/>
+            <pb facs="tcp:184598:34"/>
+            <pb facs="tcp:184598:35"/>
+            <pb facs="tcp:184598:35"/>
+            <pb facs="tcp:184598:36"/>
+            <pb facs="tcp:184598:36"/>
+            <pb facs="tcp:184598:37"/>
+            <pb facs="tcp:184598:37"/>
+            <pb facs="tcp:184598:38"/>
+            <pb facs="tcp:184598:38"/>
+            <pb facs="tcp:184598:39"/>
+            <pb facs="tcp:184598:39"/>
+            <pb facs="tcp:184598:40"/>
+            <pb facs="tcp:184598:40"/>
+            <pb facs="tcp:184598:41"/>
+            <pb facs="tcp:184598:41"/>
+            <pb facs="tcp:184598:42"/>
+            <pb facs="tcp:184598:42"/>
+            <pb facs="tcp:184598:43"/>
+            <pb facs="tcp:184598:43"/>
+            <pb facs="tcp:184598:44"/>
+            <pb facs="tcp:184598:44"/>
+            <pb facs="tcp:184598:45"/>
+            <pb facs="tcp:184598:45"/>
+            <pb facs="tcp:184598:46"/>
+            <pb facs="tcp:184598:46"/>
+            <pb facs="tcp:184598:47"/>
+            <pb facs="tcp:184598:47"/>
+         </div>
+      </body>
+   </text>
+</TEI>
